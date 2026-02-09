@@ -16,7 +16,7 @@ class AlbumDetailPage extends StatefulWidget {
 
 class _AlbumDetailPageState extends State<AlbumDetailPage> {
   // ⚠️ 务必填入你的 API Key
-  final String _apiKey = 'AIzaSyDouJ-7zIpQKXMoTrt-qXqDxpHyNPL7Qlw';
+  final String _apiKey = 'YOUR_API_KEY_HERE';
 
   final ImagePicker _picker = ImagePicker();
   bool _isSelectionMode = false;
